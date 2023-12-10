@@ -1,3 +1,8 @@
+Laravel 10
+required php verion 8.0 or above
+create task_management database
+run php artisan migrate command
+run bellow sql query for dummy projects names
 INSERT INTO `projects` (`project_name`) VALUES
 ('Project 1'),
 ('Project 2');
